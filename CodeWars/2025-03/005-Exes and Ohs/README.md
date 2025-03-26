@@ -1,4 +1,4 @@
-# [8kyu] Student's Final Grade
+# [7kyu] Exes and Ohs
 
 [작성 의사 코드 기록] [Notion Link](https://mammoth-syrup-d21.notion.site/7kyu-Exes-and-Ohs-1c18b15bc85b80c58134e1642bf05298?pvs=4)
 <br/>
